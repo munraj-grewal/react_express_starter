@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/c22abb12-a5e4-4682-a466-1512e1da4652/resourceGroups/LDT_POC_RG2/providers/Microsoft.Web/sites/ldtapp",
-    "appService.deploySubpath": "."
-}
